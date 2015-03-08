@@ -2,9 +2,7 @@
 
 > _A toolkit for application deployments and container management_
 
-[nscale] is an open source project to configure, build and deploy a set of connected containers to
-constitute a working platform for distributed applications. It is written in Javascript and works on
-many different platforms.
+[nscale] is an open toolkit supporting configuration, build and deployment of connected container sets. __nscale__ is ideally used to support the development and operation of __microservice__ based systems.
 
 # Azure Virtual Network Container
 Manages the creation, deployment, linking and unlinking of Azure Virtual Networks for [nscale]. The
